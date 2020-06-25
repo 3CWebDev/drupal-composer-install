@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dca951060f6ce1f90d9c286bdb091d84",
+    "content-hash": "0854e6cbf0c78b6c4d8a94b9dde19f87",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4517,78 +4517,6 @@
             "homepage": "https://www.drupal.org/project/redirect",
             "support": {
                 "source": "https://git.drupalcode.org/project/redirect"
-            }
-        },
-        {
-            "name": "drupal/reroute_email",
-            "version": "2.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/reroute_email.git",
-                "reference": "2.0.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/reroute_email-2.0.0.zip",
-                "reference": "2.0.0",
-                "shasum": "256909b5e1aba2022f826805301b02cdd618bb09"
-            },
-            "require": {
-                "drupal/core": "^9"
-            },
-            "type": "drupal-module",
-            "extra": {
-                "drupal": {
-                    "version": "2.0.0",
-                    "datestamp": "1590428721",
-                    "security-coverage": {
-                        "status": "covered",
-                        "message": "Covered by Drupal's security advisory policy"
-                    }
-                }
-            },
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "B-Prod",
-                    "homepage": "https://www.drupal.org/user/407852"
-                },
-                {
-                    "name": "DYdave",
-                    "homepage": "https://www.drupal.org/user/467284"
-                },
-                {
-                    "name": "Devaraj johnson",
-                    "homepage": "https://www.drupal.org/user/2698767"
-                },
-                {
-                    "name": "Rohin Knight",
-                    "homepage": "https://www.drupal.org/user/388531"
-                },
-                {
-                    "name": "bohart",
-                    "homepage": "https://www.drupal.org/user/289861"
-                },
-                {
-                    "name": "kbahey",
-                    "homepage": "https://www.drupal.org/user/4063"
-                },
-                {
-                    "name": "rfay",
-                    "homepage": "https://www.drupal.org/user/30906"
-                },
-                {
-                    "name": "wafaa",
-                    "homepage": "https://www.drupal.org/user/50133"
-                }
-            ],
-            "description": "Reroutes emails send from the site to a predefined email. Useful for test sites.",
-            "homepage": "https://www.drupal.org/project/reroute_email",
-            "support": {
-                "source": "https://git.drupalcode.org/project/reroute_email"
             }
         },
         {

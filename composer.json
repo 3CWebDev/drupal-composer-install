@@ -49,7 +49,6 @@
         "drupal/recaptcha": "^3.0",
         "drupal/recreate_block_content": "^2.0",
         "drupal/redirect": "^1.6",
-        "drupal/reroute_email": "^2.0",
         "drupal/responsive_menu": "^4.2",
         "drupal/seo_checklist": "^4.1",
         "drupal/shield": "^1.4",
