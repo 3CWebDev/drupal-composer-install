@@ -7,3 +7,4 @@ Custom composer.json file:
 - Installs base contrib modules.
 - Protects .htaccess and robots.txt files
 
+Note: Can run from custom bash script: [https://github.com/3CWebDev/d9_bash_install](https://github.com/3CWebDev/d9_bash_install)
