@@ -1,4 +1,4 @@
-# drupal-composer-install
+# Drupal 9 Customer Composer Installer
 
 run "composer create-project 3cwebdev/drupal-composer-install"
 
