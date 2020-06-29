@@ -40,6 +40,7 @@
         "drupal/flood_unblock": "^3.0",
         "drupal/google_analytics": "^3.1",
         "drupal/honeypot": "^2.0",
+        "drupal/imce": "^2.2",
         "drupal/improved_multi_select": "^1.7",
         "drupal/link_attributes": "^1.10",
         "drupal/mailchimp": "^1.11",
