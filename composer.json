@@ -44,6 +44,8 @@
         "drupal/honeypot": "^2.0",
         "drupal/imce": "^2.2",
         "drupal/improved_multi_select": "^1.7",
+        "drupal/jquery_ui_draggable": "^1.2",
+        "drupal/jquery_ui_droppable": "^1.2",
         "drupal/link_attributes": "^1.10",
         "drupal/mailchimp": "^1.11",
         "drupal/mailsystem": "^4.3",
