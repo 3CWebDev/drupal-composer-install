@@ -23,7 +23,6 @@
         "drupal/antibot": "^1.4",
         "drupal/back_to_top": "^2",
         "drupal/backup_migrate": "^5.0",
-        "drupal/coffee": "^1.0",
         "drupal/colorbox": "^1.6",
         "drupal/core": "^9.2",
         "drupal/core-composer-scaffold": "^9.2",
