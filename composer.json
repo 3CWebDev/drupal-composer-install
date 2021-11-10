@@ -43,7 +43,7 @@
         "drupal/imce": "^2.2",
         "drupal/improved_multi_select": "^1.7",
         "drupal/jquery_ui_checkboxradio": "^1.2",
-        'drupal/jquery_ui_datepicker": "1.x-dev@dev",
+        "drupal/jquery_ui_datepicker": "1.x-dev@dev",
         "drupal/jquery_ui_draggable": "^1.2",
         "drupal/jquery_ui_droppable": "^1.2",
         "drupal/jquery_ui_tabs": "^1.1",
