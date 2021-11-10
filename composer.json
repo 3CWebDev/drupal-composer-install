@@ -45,6 +45,7 @@
         "drupal/jquery_ui_datepicker": "1.x-dev@dev",
         "drupal/jquery_ui_draggable": "^1.2",
         "drupal/jquery_ui_droppable": "^1.2",
+        "drupal/jquery_ui_slider": "^1.1",
         "drupal/jquery_ui_tabs": "^1.1",
         "drupal/jquery_ui_tooltip": "^1.1",
         "drupal/link_attributes": "^1.10",
