@@ -37,6 +37,7 @@
         "drupal/faqfield": "^7.0",
         "drupal/field_group": "^3.1",
         "drupal/flood_control": "^2.1",
+        "drupal/flood_unblock": "^3.2",
         "drupal/google_analytics": "^4",
         "drupal/honeypot": "^2.0",
         "drupal/imce": "^2.2",
@@ -142,6 +143,6 @@
         }
     },
     "require-dev": {
-        "zaporylie/composer-drupal-optimizations": "^1.1"
+        "zaporylie/composer-drupal-optimizations": "^1.2"
     }
 }
