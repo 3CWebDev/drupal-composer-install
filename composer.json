@@ -24,6 +24,9 @@
         "drupal/back_to_top": "^2",
         "drupal/backup_migrate": "^5.0",
         "drupal/colorbox": "^1.6",
+        "drupal/commerce": "^2.27",
+        "drupal/commerce_shipping": "^2.2",
+        "drupal/commerce_xquantity": "^1.0@beta",
         "drupal/core": "^9.2",
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-project-message": "^9.2",
@@ -46,10 +49,12 @@
         "drupal/jquery_ui_datepicker": "1.x-dev@dev",
         "drupal/jquery_ui_draggable": "^1.2",
         "drupal/jquery_ui_droppable": "^1.2",
+        "drupal/jquery_ui_effects": "1.x-dev@dev",
         "drupal/jquery_ui_slider": "^1.1",
         "drupal/jquery_ui_tabs": "^1.1",
         "drupal/jquery_ui_tooltip": "^1.1",
         "drupal/link_attributes": "^1.10",
+        "drupal/mail_safety": "^1.2",
         "drupal/mailsystem": "^4.3",
         "drupal/masquerade": "^2.0@beta",
         "drupal/metatag": "^1.13",
@@ -70,7 +75,6 @@
         "drupal/video_embed_field": "^2.4",
         "drupal/views_bulk_operations": "^4",
         "drupal/webform": "^6.0",
-        "drupal/webform_mailchimp": "^5.9",
         "drupal/xmlsitemap": "^1.0@RC",
         "drush/drush": "^10.5"
     },
@@ -83,7 +87,11 @@
         "sort-packages": true
     },
     "extra": {
-				"patches": {         	
+				"enable-patching": true,
+				"patches": {      
+				 "drupal/core": {
+            "UnexpectedValueException: External URLs do not have an internal route name": "https://www.drupal.org/files/issues/2021-09-07/external-url.patch"         
+        }
 				},
         "drupal-scaffold": {
             "locations": {
